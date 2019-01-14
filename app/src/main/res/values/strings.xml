@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bluetoothtest</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="list">List</string>
+</resources>
